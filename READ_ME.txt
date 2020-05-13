@@ -12,7 +12,6 @@ All the 60 video are in the above link.
 
 
 
-In the Demo Video I had shared my phonescreen via Team Viewer.
 
 
 
