@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Signs_WAMP</string>
+    <string-array name="signs">
+        <item>BUY</item>
+        <item>HOUSE</item>
+        <item>FUN</item>
+        <item>HOPE</item>
+        <item>ARRIVE</item>
+        <item>REALLY</item>
+        <item>READ</item>
+        <item>LIP</item>
+        <item>MOUTH</item>
+        <item>SOME</item>
+        <item>COMMUNICATE </item>
+        <item>WRITE</item>
+        <item>CREATE</item>
+        <item>PRETEND</item>
+        <item>MAN</item>
+        <item>PERFECT</item>
+        <item>MOTHER</item>
+        <item>SISTER</item>
+        <item>ONE</item>
+        <item>DRIVE</item>
+
+
+
+
+
+
+    </string-array>
+    <string-array name="Links">
+        <item>https://www.signingsavvy.com/media/mp4-ld/6/6442.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/23/23234.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/24/24587.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22197.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/26/26971.mp4 </item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/24/24977.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/7/7042.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/26/26085.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22188.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/23/23931.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22897.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/27/27923.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/22/22337.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/25/25901.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/21/21568.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/24/24791.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/21/21571.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/21/21587.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/26/26492.mp4</item>
+        <item>https://www.signingsavvy.com/media/mp4-ld/23/23918.mp4</item>
+
+    </string-array>
+    <string name="title_activity_showsign">Showsign</string>
+
+
+</resources>
